@@ -27,7 +27,7 @@
 <h1 id = "a1">HELLO TO ALL !</h1>
 <p><pre id = "a2">
   THIS IS DDHRUV ARORA 
-  TASK-1 OF AWS-HYBRID-MULTI-CLOUD-TRAINING BY SIR VIMAL DAGA
+  TASK-2 OF AWS-HYBRID-MULTI-CLOUD-TRAINING BY SIR VIMAL DAGA
   YOU CAN CONNECT ME:
   <a id="a3" href =  https://www.linkedin.com/in/ddhruv-arora-13a868192>Linkedin</a>
 </pre></p>
